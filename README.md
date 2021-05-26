@@ -1,4 +1,4 @@
-# Morse-Code-Mobile-Application
+# Morse-Code-Learning-Mobile-Application
 
 Morse code, which was created by Samuel Morse in the early 1830s, are literal codes used to send messages by a sequence of pulses of two types: long pulse and short pulse. These impulses compose of lights or some other media [1].
 

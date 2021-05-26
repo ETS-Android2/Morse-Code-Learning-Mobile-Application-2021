@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Morse Lighthouse</string>
+    <string-array name="num_participant">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="num_question">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="category">
+        <item>Letter</item>
+        <item>Numbers</item>
+        <item>Punctuations</item>
+    </string-array>
+</resources>

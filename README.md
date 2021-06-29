@@ -1,4 +1,4 @@
-# Morse-Code-Learning-Mobile-Application
+# Morse-Code-Learning-Mobile-Application-2021
 
 <p align="center">
   <img width="150" height="150" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application/blob/main/AIBasedMorseCode/app/src/main/ic_launcher-playstore.png">

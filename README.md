@@ -14,9 +14,9 @@ This project introduces a modern and more practical approach for learning Morse 
 
 This application is divided into two main modes: Single-User Mode and Multi-User Mode. In Single-User and Multi-User mode, they have two parts: training and exam. The Single-User mode is for one user, and the Multi-User mode allows one or more users to receive messages from a sender through Computer Vision. 
 
-The abovementioned points should be implemented using Java for android smartphones.
+The abovementioned points are implemented using Java for android smartphones.
 
-Because of some circumstances in the last semester (2021 AT), a few functionalities have not been completed yet...
+Because of some circumstances in the last semester (2021 AD), a few functionalities have not been completed yet...
 
 
 ## Reference

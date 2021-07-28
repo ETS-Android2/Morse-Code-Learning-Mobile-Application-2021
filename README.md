@@ -16,7 +16,7 @@ This application is divided into two main modes: Single-User Mode and Multi-User
 
 The abovementioned points are implemented using Java for android smartphones.
 
-__Because of some circumstances in the last semester (2021 AD), a few functionalities have not been completed yet...__
+Because of __some circumstances__ in the last semester (2021 AD), a few functionalities __have not__ been completed yet...
 
 ## Screenshots
 

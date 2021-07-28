@@ -22,25 +22,25 @@ __Because of some circumstances in the last semester (2021 AD), a few functional
 
 <div>
   <h3>White Theme</h3>
-  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(1).png">
-  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(2).png">
-  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(3).png">
-  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(4).png">
-  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(5).png">
-  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(6).png">
-  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(7).png">
-  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(8).png">
-  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(9).png">
-  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(10).png">
-  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(11).png">
-  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(12).png">
-  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(13).png">
-  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(14).png">
-  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(15).png">
-  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(16).png">
-  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(17).png">
-  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(18).png">
-  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(19).png">
+  <img width="150" height="270" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(1).png">
+  <img width="150" height="270" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(2).png">
+  <img width="150" height="270" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(3).png">
+  <img width="150" height="270" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(4).png">
+  <img width="150" height="270" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(5).png">
+  <img width="150" height="270" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(6).png">
+  <img width="150" height="270" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(7).png">
+  <img width="150" height="270" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(8).png">
+  <img width="150" height="270" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(9).png">
+  <img width="150" height="270" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(10).png">
+  <img width="150" height="270" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(11).png">
+  <img width="150" height="270" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(12).png">
+  <img width="150" height="270" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(13).png">
+  <img width="150" height="270" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(14).png">
+  <img width="150" height="270" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(15).png">
+  <img width="150" height="270" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(16).png">
+  <img width="150" height="270" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(17).png">
+  <img width="150" height="270" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(18).png">
+  <img width="150" height="270" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/WhiteUIs/screenshot%20(19).png">
 </div>
 <div>
   <h3>Black Theme</h3>
@@ -53,6 +53,16 @@ __Because of some circumstances in the last semester (2021 AD), a few functional
   <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/BlackUIs/screenshot%20(1).jpg">
   <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/BlackUIs/screenshot%20(8).jpg">
   <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/BlackUIs/screenshot%20(9).jpg">
+  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/BlackUIs/screenshot%20(10).jpg">
+  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/BlackUIs/screenshot%20(11).jpg">
+  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/BlackUIs/screenshot%20(12).jpg">
+  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/BlackUIs/screenshot%20(13).jpg">
+  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/BlackUIs/screenshot%20(14).jpg">
+  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/BlackUIs/screenshot%20(15).jpg">
+  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/BlackUIs/screenshot%20(16).jpg">
+  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/BlackUIs/screenshot%20(17).jpg">
+  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/BlackUIs/screenshot%20(18).jpg">
+  <img width="150" height="300" src="https://github.com/oalqurashi/Morse-Code-Learning-Mobile-Application-2021/blob/main/BlackUIs/screenshot%20(19).jpg">
 </div>
 
 

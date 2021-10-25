@@ -66,6 +66,8 @@ Because of __some circumstances__ in the last semester (2021 AD), a few function
 </div>
 
 
+__(Note: This project is part of the CPCS-498 & CPCS-499 courses i.e. Senior Project 1 & 2, at King Abdulaziz University)__
+
 ## Reference
 
 [1] 	T. E. o. E. Britannica, "Morse Code," September 18, 2020. [Online]. Available: https://www.britannica.com/topic/Morse-Code. [Accessed October 20, 2020].
